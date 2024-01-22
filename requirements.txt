@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+# ORM
+SQLAlchemy
+# mysql connections
+mysql-connector-python
+# config with .env
+python-decouple
+# migrations
+alembic
+# config setting and models
+pydantic
+pydantic-settings
